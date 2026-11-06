@@ -1,7 +1,7 @@
 ---
 title: 기술 블로그를 시작합니다
 date: 2026-09-24 21:00:00 +0900
-categories: [Blog, Setup]
+categories: [Etc]
 tags: [jekyll, chirpy, github-pages]
 description: Jekyll + Chirpy 테마 + GitHub Pages로 기술 블로그를 세팅했습니다.
 ---
