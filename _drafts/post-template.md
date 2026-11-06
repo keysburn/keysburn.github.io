@@ -1,7 +1,7 @@
 ---
 title: 글 제목
 date: 2026-01-01 12:00:00 +0900
-categories: [대분류, 소분류]   # 최대 2단계. 대분류: Backend | Frontend | DevOps | Etc
+categories: [대분류, 소분류]   # 최대 2단계. 대분류: Backend | Frontend | DevOps | AI & Data | Etc
 tags: [tag1, tag2]            # 태그는 소문자 권장
 description: 검색 결과/미리보기에 노출될 한 줄 요약
 # image:
