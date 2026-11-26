@@ -1,6 +1,6 @@
 ---
 title: 서버 2대로 Redis 고가용성 만들기 – Sentinel 투표권만 쿠버네티스에 맡긴 이유
-date: 2026-11-26 10:00:00 +0900
+date: 2026-11-26 09:20:00 +0900
 categories: [Infra, Redis]
 tags: [redis, redis-sentinel, kubernetes, high-availability, quorum, split-brain, air-gapped]
 description: 폐쇄망에서 VM 2대만 할당된 상황에서 Redis 고가용성을 구성하며, 세 번째 Sentinel을 쿠버네티스 Pod로 두어 과반 투표를 확보한 과정
